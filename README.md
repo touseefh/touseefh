@@ -6,13 +6,12 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="[[https://avatars.githubusercontent.com/u/your-github-username](https://media.licdn.com/dms/image/v2/D4D03AQEmnFCYb-cxKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706430345618?e=1750896000&v=beta&t=mp9kgm1mTne7dRLV1mM-8KeBz4GmG24FCzmJBSVULjw)](https://media.licdn.com/dms/image/v2/D4D03AQEmnFCYb-cxKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706430345618?e=1750896000&v=beta&t=mp9kgm1mTne7dRLV1mM-8KeBz4GmG24FCzmJBSVULjw)" width="150" height="150" alt="Touseef Hanif" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEmnFCYb-cxKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706430345618?e=1750896000&v=beta&t=mp9kgm1mTne7dRLV1mM-8KeBz4GmG24FCzmJBSVULjw" width="180" style="border-radius: 50%;" alt="Touseef Hanif Avatar">
 </p>
-
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-🎓 I'm **Touseef Hanif**, a passionate IT student at **Air University** with a keen interest in **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Web Development**. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+🎓 I'm **Touseef Hanif**, a passionate IT student  with a keen interest in **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Web Development**. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
