@@ -6,8 +6,9 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/123441664?v=4" width="200" height="200" style="border-radius: 50%;" alt="Touseef Hanif Avatar">
+  <img src="https://avatars.githubusercontent.com/u/123441664?v=4" width="220" height="220" alt="Touseef Hanif Avatar" style="border-radius: 50%;">
 </p>
+
 <!-- About Me -->
 ## 👨‍💻 About Me
 
