@@ -1,11 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Touseef+Hanif;AI+Enthusiast+%7C+Web+Developer;IT+Student+%40+Air+University;Let's+build+something+amazing+%F0%9F%9A%80](https://media.licdn.com/dms/image/v2/D4D03AQEmnFCYb-cxKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706430345618?e=1750896000&v=beta&t=mp9kgm1mTne7dRLV1mM-8KeBz4GmG24FCzmJBSVULjw)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Touseef+Hanif;AI+Enthusiast+%7C+Web+Developer;IT+Student+%40+Air+University;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+
 </p>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-username" width="150" height="150" alt="Touseef Hanif" />
+  <img src="[https://avatars.githubusercontent.com/u/your-github-username](https://media.licdn.com/dms/image/v2/D4D03AQEmnFCYb-cxKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706430345618?e=1750896000&v=beta&t=mp9kgm1mTne7dRLV1mM-8KeBz4GmG24FCzmJBSVULjw)" width="150" height="150" alt="Touseef Hanif" />
 </p>
 
 <!-- About Me -->
