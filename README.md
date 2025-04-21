@@ -72,71 +72,76 @@
 
 ---
 
-<!-- Projects -->
-## 🚀 Notable Projects
-
-### 🔬 Benign or Malignant
-A web-based tool for predicting breast cancer diagnosis using the Breast Cancer Wisconsin dataset.
-
-**Technologies:** Python, Streamlit, Scikit-learn  
-[GitHub Repository](https://github.com/touseefh/benign-or-malignant)
-
-### 📄 RAG-AI Resume & Job Analyzer
-A RAG-based web app that matches resumes with job descriptions using FAISS and Sentence-BERT. Offers AI-driven feedback on resumes via Gemini AI.
-
-**Technologies:** FAISS, Sentence-BERT, Google Gemini AI, Streamlit  
-[GitHub Repository](https://github.com/touseefh/rag-ai-resume-job-analyzer)
-
-### 👕 E-Commerce Clothing Classifier
-Developed a garment classification model to categorize clothing items using PyTorch.
-
-**Technologies:** PyTorch, TorchMetric, torchvision  
-[GitHub Repository](https://github.com/touseefh/e-commerce-clothing-classifier)
-
-### 🌾 Predictive Modeling for Agriculture
-Developed an ML model to recommend optimal crops based on soil metrics.
-
-**Technologies:** Scikit-learn, Pandas  
-[GitHub Repository](https://github.com/touseefh/predictive-modeling-agriculture)
-
-### 💬 Chat Application  
-A real-time chat application using the **QT C++ framework** for secure TCP/IP communication and file sharing.  
-
-**Technologies:** QT C++, Socket Programming, TCP/IP  
-[GitHub Repository](https://github.com/touseefh/chat-app-qt)
-
-### 📚 Paperless Profit  
-A visually engaging bookshop web application built using **Blazor WebAssembly**.
-
-**Technologies:** Blazor WebAssembly, Bootstrap, HTML, SQL Server  
-[GitHub Repository](https://github.com/touseefh/paperless-profit)
-
-### 🤖 Chatbot  
-An AI-powered chatbot using the **Gemini API** and integrated into a **Streamlit** app.
-
-**Technologies:** Gemini API, Python, Streamlit  
-[GitHub Repository](https://github.com/touseefh/chatbot-gemini)
-
-### 🍋 Little Lemon  
-A responsive web app for the Little Lemon restaurant, focused on enhancing the table reservation functionality.
-
-**Technologies:** React, JavaScript, Semantic HTML, CSS Grid  
-[GitHub Repository](https://github.com/touseefh/little-lemon)
-
----
-
 ## 💼 Work Experience
 
 ### 🧠 AI/ML Intern – *Codic Solution*  
-**Jul 2024 – Sep 2024**  
-- Worked on anti-AI shoplifting detection using **OpenCV, YOLO, CNN, RNN, LSTM**  
-- Improved detection accuracy and minimized false positives
+📅 *Jul 2024 – Sep 2024*  
+- 🧪 Developed AI-based shoplifting detection system using **OpenCV**, **YOLO**, **CNN**, **RNN**, and **LSTM**  
+- ✅ Improved real-time accuracy and minimized false positives  
 
 ### 🧑‍💻 Freelance AI Developer  
-**Sep 2024 – Present**  
-- Fine-tuned **Vision Transformer** for plant disease detection  
-- Developed models using **EfficientNetB3**, **ResNet-50**, and **RegNetY-8GF**  
-- Hands-on experience with **TensorFlow** and **PyTorch** in real-world deployments
+📅 *Sep 2024 – Present*  
+- 🌱 Fine-tuned **Vision Transformer (ViT)** for plant disease detection  
+- 🔬 Implemented models with **EfficientNetB3**, **ResNet-50**, and **RegNetY-8GF**  
+- 🧰 Built real-world solutions with **TensorFlow** & **PyTorch**
+
+---
+
+## 🚀 Notable Projects
+
+### 🔬 Benign or Malignant  
+🧪 A web-based tool for predicting breast cancer diagnosis using the Breast Cancer Wisconsin dataset.  
+**🛠️ Technologies:** Python, Streamlit, Scikit-learn  
+🔗 [GitHub Repository](https://github.com/touseefh/benign-or-malignant)
+
+---
+
+### 📄 RAG-AI Resume & Job Analyzer  
+📊 A RAG-based app that matches resumes with job descriptions using **FAISS** & **Sentence-BERT**, plus **Gemini AI** for feedback.  
+**🛠️ Technologies:** FAISS, Sentence-BERT, Google Gemini AI, Streamlit  
+🔗 [GitHub Repository](https://github.com/touseefh/rag-ai-resume-job-analyzer)
+
+---
+
+### 👕 E-Commerce Clothing Classifier  
+🧵 Built a clothing classifier to categorize garments using deep learning.  
+**🛠️ Technologies:** PyTorch, TorchMetrics, torchvision  
+🔗 [GitHub Repository](https://github.com/touseefh/e-commerce-clothing-classifier)
+
+---
+
+### 🌾 Predictive Modeling for Agriculture  
+🌱 Recommended optimal crops based on soil conditions using ML.  
+**🛠️ Technologies:** Scikit-learn, Pandas  
+🔗 [GitHub Repository](https://github.com/touseefh/predictive-modeling-agriculture)
+
+---
+
+### 💬 Chat Application  
+💻 Real-time chat app with secure TCP/IP communication and file sharing.  
+**🛠️ Technologies:** QT C++, Socket Programming  
+🔗 [GitHub Repository](https://github.com/touseefh/chat-app-qt)
+
+---
+
+### 📚 Paperless Profit  
+📖 Interactive bookshop web app using Blazor.  
+**🛠️ Technologies:** Blazor WebAssembly, Bootstrap, HTML, SQL Server  
+🔗 [GitHub Repository](https://github.com/touseefh/paperless-profit)
+
+---
+
+### 🤖 Chatbot  
+🧠 AI chatbot using **Gemini API**, integrated with **Streamlit**.  
+**🛠️ Technologies:** Gemini API, Python, Streamlit  
+🔗 [GitHub Repository](https://github.com/touseefh/chatbot-gemini)
+
+---
+
+### 🍋 Little Lemon  
+🍽️ Reservation-focused web app for a restaurant.  
+**🛠️ Technologies:** React, JavaScript, Semantic HTML, CSS Grid  
+🔗 [GitHub Repository](https://github.com/touseefh/little-lemon)
 
 ---
 
@@ -145,7 +150,7 @@ A responsive web app for the Little Lemon restaurant, focused on enhancing the t
 - 🎓 **DeepLearning.AI TensorFlow Developer** – DeepLearning.AI  
 - 🧠 **Associate Data Scientist in Python** – DataCamp  
 - ☁️ **Cloud Engineer Professional Certificate** – Google  
-- 🌐 **MEAN Stack Developer** – EC-Council Learning
+- 🌐 **MEAN Stack Developer** – EC-Council Learning  
 
 ---
 
