@@ -6,7 +6,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEmnFCYb-cxKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706430345618?e=1750896000&v=beta&t=mp9kgm1mTne7dRLV1mM-8KeBz4GmG24FCzmJBSVULjw" width="180" style="border-radius: 50%;" alt="Touseef Hanif Avatar">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEmnFCYb-cxKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706430345618?e=1750896000&v=beta&t=mp9kgm1mTne7dRLV1mM-8KeBz4GmG24FCzmJBSVULjw" width="200" height="100 style="border-radius: 50%;" alt="Touseef Hanif Avatar">
 </p>
 <!-- About Me -->
 ## 👨‍💻 About Me
@@ -92,56 +92,56 @@
 ### 🔬 Benign or Malignant  
 🧪 A web-based tool for predicting breast cancer diagnosis using the Breast Cancer Wisconsin dataset.  
 **🛠️ Technologies:** Python, Streamlit, Scikit-learn  
-🔗 [GitHub Repository](https://github.com/touseefh/benign-or-malignant)
+🔗 [Link](https://github.com/touseefh/benign-or-malignant)
 
 ---
 
 ### 📄 RAG-AI Resume & Job Analyzer  
 📊 A RAG-based app that matches resumes with job descriptions using **FAISS** & **Sentence-BERT**, plus **Gemini AI** for feedback.  
 **🛠️ Technologies:** FAISS, Sentence-BERT, Google Gemini AI, Streamlit  
-🔗 [GitHub Repository](https://github.com/touseefh/rag-ai-resume-job-analyzer)
+🔗 [Link](https://github.com/touseefh/rag-ai-resume-job-analyzer)
 
 ---
 
 ### 👕 E-Commerce Clothing Classifier  
 🧵 Built a clothing classifier to categorize garments using deep learning.  
 **🛠️ Technologies:** PyTorch, TorchMetrics, torchvision  
-🔗 [GitHub Repository](https://github.com/touseefh/e-commerce-clothing-classifier)
+🔗 [Link](https://github.com/touseefh/e-commerce-clothing-classifier)
 
 ---
 
 ### 🌾 Predictive Modeling for Agriculture  
 🌱 Recommended optimal crops based on soil conditions using ML.  
 **🛠️ Technologies:** Scikit-learn, Pandas  
-🔗 [GitHub Repository](https://github.com/touseefh/predictive-modeling-agriculture)
+🔗 [Link](https://github.com/touseefh/predictive-modeling-agriculture)
 
 ---
 
 ### 💬 Chat Application  
 💻 Real-time chat app with secure TCP/IP communication and file sharing.  
 **🛠️ Technologies:** QT C++, Socket Programming  
-🔗 [GitHub Repository](https://github.com/touseefh/chat-app-qt)
+🔗 [Link](https://github.com/touseefh/chat-app-qt)
 
 ---
 
 ### 📚 Paperless Profit  
 📖 Interactive bookshop web app using Blazor.  
 **🛠️ Technologies:** Blazor WebAssembly, Bootstrap, HTML, SQL Server  
-🔗 [GitHub Repository](https://github.com/touseefh/paperless-profit)
+🔗 [Link](https://github.com/touseefh/paperless-profit)
 
 ---
 
 ### 🤖 Chatbot  
 🧠 AI chatbot using **Gemini API**, integrated with **Streamlit**.  
 **🛠️ Technologies:** Gemini API, Python, Streamlit  
-🔗 [GitHub Repository](https://github.com/touseefh/chatbot-gemini)
+🔗 [Link](https://github.com/touseefh/chatbot-gemini)
 
 ---
 
 ### 🍋 Little Lemon  
 🍽️ Reservation-focused web app for a restaurant.  
 **🛠️ Technologies:** React, JavaScript, Semantic HTML, CSS Grid  
-🔗 [GitHub Repository](https://github.com/touseefh/little-lemon)
+🔗 [Link](https://github.com/touseefh/little-lemon)
 
 ---
 
