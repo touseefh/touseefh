@@ -107,21 +107,21 @@
 ### 👕 E-Commerce Clothing Classifier  
 🧵 Built a clothing classifier to categorize garments using deep learning.  
 **🛠️ Technologies:** PyTorch, TorchMetrics, torchvision  
-🔗 [Link](https://github.com/touseefh/e-commerce-clothing-classifier)
+
 
 ---
 
 ### 🌾 Predictive Modeling for Agriculture  
 🌱 Recommended optimal crops based on soil conditions using ML.  
 **🛠️ Technologies:** Scikit-learn, Pandas  
-🔗 [Link](https://github.com/touseefh/predictive-modeling-agriculture)
+
 
 ---
 
 ### 💬 Chat Application  
 💻 Real-time chat app with secure TCP/IP communication and file sharing.  
 **🛠️ Technologies:** QT C++, Socket Programming  
-🔗 [Link](https://github.com/touseefh/chat-app-qt)
+
 
 ---
 
@@ -135,7 +135,7 @@
 ### 🤖 Chatbot  
 🧠 AI chatbot using **Gemini API**, integrated with **Streamlit**.  
 **🛠️ Technologies:** Gemini API, Python, Streamlit  
-🔗 [Link](https://github.com/touseefh/chatbot-gemini)
+
 
 ---
 
