@@ -12,8 +12,8 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-Teaching machines to see, learn, and reason that’s what drives me.
-I’m **Touseef Hanif**, exploring how AI that can turn data into understanding and ideas into impact
+**Teaching machines to see, learn, and reason that’s what drives me.**
+**I’m **Touseef Hanif**, exploring how **AI** can turn data into understanding and ideas into impact.**
 
 ---
 
