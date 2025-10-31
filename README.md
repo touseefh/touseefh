@@ -12,7 +12,8 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-🎓 I'm **Touseef Hanif**, a passionate IT student  with a keen interest in **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Web Development**. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+Teaching machines to see, learn, and reason that’s what drives me.
+I’m **Touseef Hanif**, exploring how AI that can turn data into understanding and ideas into impact
 
 ---
 
